@@ -8,18 +8,18 @@ To train the model, use
 
 # Citation
 @inproceedings{10.1145/3688859.3690081,
-author = {Yuan, Zhongming and Xiong, Hao and Hou, Sujuan},
-title = {EAGLE Network: A Novel Incremental Learning Framework for Detecting Unknown Logos in Open-World Environments},
-year = {2024},
-isbn = {9798400711886},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3688859.3690081},
-doi = {10.1145/3688859.3690081},
-booktitle = {Proceedings of the 1st on Continual Learning Meets Multimodal Foundation Models: Fundamentals and Advances},
-pages = {23–30},
-numpages = {8},
-keywords = {incremental learning, open-world logo detection, task queries generation, task-adaptive},
-location = {Melbourne VIC, Australia},
-series = {ACMMM CL'24}
+author = Yuan, Zhongming and Xiong, Hao and Hou, Sujuan,
+title = EAGLE Network: A Novel Incremental Learning Framework for Detecting Unknown Logos in Open-World Environments,
+year = 2024,
+isbn = 9798400711886,
+publisher = Association for Computing Machinery,
+address = New York, NY, USA,
+url = https://doi.org/10.1145/3688859.3690081,
+doi = 10.1145/3688859.3690081,
+booktitle = Proceedings of the 1st on Continual Learning Meets Multimodal Foundation Models: Fundamentals and Advances,
+pages = 23–30,
+numpages = 8,
+keywords = incremental learning, open-world logo detection, task queries generation, task-adaptive,
+location = Melbourne VIC, Australia,
+series = ACMMM CL'24
 }
